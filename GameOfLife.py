@@ -210,10 +210,10 @@ def main():
 
 
 if __name__ == '__main__':
-    X_LEN = 5
-    Y_LEN = 5
+    X_LEN = 15
+    Y_LEN = 15
 
-    LIVE = 1
-    DEAD = 0
+    LIVE = '+'
+    DEAD = ' '
 
     main()
